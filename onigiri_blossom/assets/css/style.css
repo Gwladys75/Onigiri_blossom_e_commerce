@@ -1,0 +1,51 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+html {
+    font-size: 62.5%;
+    /*1 rem = 10px */
+}
+
+.livraison {
+    height: 7vh;
+    background-color:  deeppink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ 
+   
+
+}
+
+i{
+    font-size: 2rem;
+    margin-right: 10px;
+    color: #fff;
+    
+}
+
+.kalam {
+    font-family: "Kalam", cursive;
+    color: #fff;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+#logo {
+    width: 20%;
+}
+
+.sakura-header {
+    /* background-repeat: no-repeat; */
+    background: url("../img/background-sakura-header.png");
+    
+}
+
